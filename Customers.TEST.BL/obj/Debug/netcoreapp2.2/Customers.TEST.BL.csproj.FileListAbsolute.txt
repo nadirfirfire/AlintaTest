@@ -1,0 +1,44 @@
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.deps.json
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.pdb
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.dll
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.pdb
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.csprojAssemblyReference.cache
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.AssemblyInfoInputs.cache
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.AssemblyInfo.cs
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.csproj.CopyComplete
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.pdb
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.deps.json
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.pdb
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.dll
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.pdb
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.csprojAssemblyReference.cache
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.AssemblyInfoInputs.cache
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.AssemblyInfo.cs
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.csproj.CopyComplete
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.pdb
+C:\nfirfire-repos\AETest\repo\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.deps.json
+C:\nfirfire-repos\AETest\repo\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+C:\nfirfire-repos\AETest\repo\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.pdb
+C:\nfirfire-repos\AETest\repo\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.dll
+C:\nfirfire-repos\AETest\repo\CustomerAPI.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.pdb
+C:\nfirfire-repos\AETest\repo\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.csprojAssemblyReference.cache
+C:\nfirfire-repos\AETest\repo\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.AssemblyInfoInputs.cache
+C:\nfirfire-repos\AETest\repo\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.AssemblyInfo.cs
+C:\nfirfire-repos\AETest\repo\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.csproj.CopyComplete
+C:\nfirfire-repos\AETest\repo\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+C:\nfirfire-repos\AETest\repo\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.pdb
+C:\nfirfire-repos\AETest\RepoUpload\Customers.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.deps.json
+C:\nfirfire-repos\AETest\RepoUpload\Customers.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+C:\nfirfire-repos\AETest\RepoUpload\Customers.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.BL.pdb
+C:\nfirfire-repos\AETest\RepoUpload\Customers.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.dll
+C:\nfirfire-repos\AETest\RepoUpload\Customers.TEST.BL\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.pdb
+C:\nfirfire-repos\AETest\RepoUpload\Customers.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.csprojAssemblyReference.cache
+C:\nfirfire-repos\AETest\RepoUpload\Customers.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.AssemblyInfoInputs.cache
+C:\nfirfire-repos\AETest\RepoUpload\Customers.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.AssemblyInfo.cs
+C:\nfirfire-repos\AETest\RepoUpload\Customers.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.csproj.CopyComplete
+C:\nfirfire-repos\AETest\RepoUpload\Customers.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+C:\nfirfire-repos\AETest\RepoUpload\Customers.TEST.BL\obj\Debug\netcoreapp2.2\Customers.TEST.BL.pdb

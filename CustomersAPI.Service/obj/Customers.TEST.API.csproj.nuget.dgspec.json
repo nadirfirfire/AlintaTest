@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\nfirfire-repos\\AETest\\RepoUpload\\CustomersAPI.Service\\Customers.TEST.API.csproj": {}
+  },
+  "projects": {
+    "C:\\nfirfire-repos\\AETest\\RepoUpload\\CustomerAPI.TEST.DTO\\Customers.TEST.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\nfirfire-repos\\AETest\\RepoUpload\\CustomerAPI.TEST.DTO\\Customers.TEST.DTO.csproj",
+        "projectName": "Customers.TEST.DTO",
+        "projectPath": "C:\\nfirfire-repos\\AETest\\RepoUpload\\CustomerAPI.TEST.DTO\\Customers.TEST.DTO.csproj",
+        "packagesPath": "C:\\Users\\nfirfire\\.nuget\\packages\\",
+        "outputPath": "C:\\nfirfire-repos\\AETest\\RepoUpload\\CustomerAPI.TEST.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nfirfire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://braveenergy.pkgs.visualstudio.com/_packaging/BravePackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\nfirfire-repos\\AETest\\RepoUpload\\Customers.TEST.BL\\Customers.TEST.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\nfirfire-repos\\AETest\\RepoUpload\\Customers.TEST.BL\\Customers.TEST.BL.csproj",
+        "projectName": "Customers.TEST.BL",
+        "projectPath": "C:\\nfirfire-repos\\AETest\\RepoUpload\\Customers.TEST.BL\\Customers.TEST.BL.csproj",
+        "packagesPath": "C:\\Users\\nfirfire\\.nuget\\packages\\",
+        "outputPath": "C:\\nfirfire-repos\\AETest\\RepoUpload\\Customers.TEST.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nfirfire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://braveenergy.pkgs.visualstudio.com/_packaging/BravePackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\nfirfire-repos\\AETest\\RepoUpload\\CustomerAPI.TEST.DTO\\Customers.TEST.DTO.csproj": {
+                "projectPath": "C:\\nfirfire-repos\\AETest\\RepoUpload\\CustomerAPI.TEST.DTO\\Customers.TEST.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\nfirfire-repos\\AETest\\RepoUpload\\CustomersAPI.Service\\Customers.TEST.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\nfirfire-repos\\AETest\\RepoUpload\\CustomersAPI.Service\\Customers.TEST.API.csproj",
+        "projectName": "Customers.TEST.API",
+        "projectPath": "C:\\nfirfire-repos\\AETest\\RepoUpload\\CustomersAPI.Service\\Customers.TEST.API.csproj",
+        "packagesPath": "C:\\Users\\nfirfire\\.nuget\\packages\\",
+        "outputPath": "C:\\nfirfire-repos\\AETest\\RepoUpload\\CustomersAPI.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nfirfire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://braveenergy.pkgs.visualstudio.com/_packaging/BravePackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\nfirfire-repos\\AETest\\RepoUpload\\Customers.TEST.BL\\Customers.TEST.BL.csproj": {
+                "projectPath": "C:\\nfirfire-repos\\AETest\\RepoUpload\\Customers.TEST.BL\\Customers.TEST.BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

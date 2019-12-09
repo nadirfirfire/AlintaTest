@@ -1,0 +1,76 @@
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.deps.json
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.runtimeconfig.json
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.runtimeconfig.dev.json
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.dll
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.pdb
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.dll
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.BL.pdb
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.pdb
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.csprojAssemblyReference.cache
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorAssemblyInfo.cache
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorAssemblyInfo.cs
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.AssemblyInfoInputs.cache
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.AssemblyInfo.cs
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorTargetAssemblyInfo.cache
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.csproj.CopyComplete
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.dll
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.pdb
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.deps.json
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.runtimeconfig.json
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.runtimeconfig.dev.json
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.dll
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.pdb
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.dll
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.BL.pdb
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.pdb
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.csprojAssemblyReference.cache
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorAssemblyInfo.cache
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorAssemblyInfo.cs
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.AssemblyInfoInputs.cache
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.AssemblyInfo.cs
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorTargetAssemblyInfo.cache
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.csproj.CopyComplete
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.dll
+C:\nfirfire-repos\AETest\CustomerAPI.TEST\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.pdb
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.deps.json
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.runtimeconfig.json
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.runtimeconfig.dev.json
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.dll
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.pdb
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.dll
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.BL.pdb
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.pdb
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.csprojAssemblyReference.cache
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorAssemblyInfo.cache
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorAssemblyInfo.cs
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.AssemblyInfoInputs.cache
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.AssemblyInfo.cs
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorTargetAssemblyInfo.cache
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.csproj.CopyComplete
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.dll
+C:\nfirfire-repos\AETest\repo\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.pdb
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.dll
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.pdb
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.deps.json
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.runtimeconfig.json
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.runtimeconfig.dev.json
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.dll
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.API.pdb
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.BL.dll
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.dll
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.BL.pdb
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\bin\Debug\netcoreapp2.2\Customers.TEST.DTO.pdb
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.csprojAssemblyReference.cache
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorAssemblyInfo.cache
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorAssemblyInfo.cs
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.AssemblyInfoInputs.cache
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.AssemblyInfo.cs
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.RazorTargetAssemblyInfo.cache
+C:\nfirfire-repos\AETest\RepoUpload\CustomersAPI.Service\obj\Debug\netcoreapp2.2\Customers.TEST.API.csproj.CopyComplete

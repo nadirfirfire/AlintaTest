@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CustomersAPI.TEST.DTO/1.0.0": {
+        "runtime": {
+          "CustomersAPI.TEST.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomersAPI.TEST.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

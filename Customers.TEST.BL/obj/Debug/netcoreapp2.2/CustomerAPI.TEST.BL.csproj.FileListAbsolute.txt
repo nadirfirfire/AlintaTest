@@ -1,0 +1,3 @@
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\CustomerAPI.TEST.BL.csprojAssemblyReference.cache
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\CustomerAPI.TEST.BL.AssemblyInfoInputs.cache
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.BL\obj\Debug\netcoreapp2.2\CustomerAPI.TEST.BL.AssemblyInfo.cs

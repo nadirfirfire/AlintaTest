@@ -1,0 +1,7 @@
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.DTO\bin\Debug\netcoreapp2.2\CustomersAPI.TEST.DTO.deps.json
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.DTO\bin\Debug\netcoreapp2.2\CustomersAPI.TEST.DTO.dll
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.DTO\bin\Debug\netcoreapp2.2\CustomersAPI.TEST.DTO.pdb
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.DTO\obj\Debug\netcoreapp2.2\CustomersAPI.TEST.DTO.AssemblyInfoInputs.cache
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.DTO\obj\Debug\netcoreapp2.2\CustomersAPI.TEST.DTO.AssemblyInfo.cs
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.DTO\obj\Debug\netcoreapp2.2\CustomersAPI.TEST.DTO.dll
+F:\nadir docs\AUS Migration\Interview\Alinta Energy\CustomerAPI.TEST\CustomerAPI.TEST.DTO\obj\Debug\netcoreapp2.2\CustomersAPI.TEST.DTO.pdb

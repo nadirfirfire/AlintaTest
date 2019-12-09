@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\nadir docs\\AUS Migration\\Interview\\Alinta Energy\\CustomerAPI.TEST\\CustomerAPI.TEST.BL\\CustomersAPI.TEST.BL.csproj": {}
+  },
+  "projects": {
+    "F:\\nadir docs\\AUS Migration\\Interview\\Alinta Energy\\CustomerAPI.TEST\\CustomerAPI.TEST.BL\\CustomersAPI.TEST.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\nadir docs\\AUS Migration\\Interview\\Alinta Energy\\CustomerAPI.TEST\\CustomerAPI.TEST.BL\\CustomersAPI.TEST.BL.csproj",
+        "projectName": "CustomersAPI.TEST.BL",
+        "projectPath": "F:\\nadir docs\\AUS Migration\\Interview\\Alinta Energy\\CustomerAPI.TEST\\CustomerAPI.TEST.BL\\CustomersAPI.TEST.BL.csproj",
+        "packagesPath": "C:\\Users\\nadir_000\\.nuget\\packages\\",
+        "outputPath": "F:\\nadir docs\\AUS Migration\\Interview\\Alinta Energy\\CustomerAPI.TEST\\CustomerAPI.TEST.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nadir_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "F:\\nadir docs\\AUS Migration\\Interview\\Alinta Energy\\CustomerAPI.TEST\\CustomerAPI.TEST.DTO\\CustomersAPI.TEST.DTO.csproj": {
+                "projectPath": "F:\\nadir docs\\AUS Migration\\Interview\\Alinta Energy\\CustomerAPI.TEST\\CustomerAPI.TEST.DTO\\CustomersAPI.TEST.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\nadir docs\\AUS Migration\\Interview\\Alinta Energy\\CustomerAPI.TEST\\CustomerAPI.TEST.DTO\\CustomersAPI.TEST.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\nadir docs\\AUS Migration\\Interview\\Alinta Energy\\CustomerAPI.TEST\\CustomerAPI.TEST.DTO\\CustomersAPI.TEST.DTO.csproj",
+        "projectName": "CustomersAPI.TEST.DTO",
+        "projectPath": "F:\\nadir docs\\AUS Migration\\Interview\\Alinta Energy\\CustomerAPI.TEST\\CustomerAPI.TEST.DTO\\CustomersAPI.TEST.DTO.csproj",
+        "packagesPath": "C:\\Users\\nadir_000\\.nuget\\packages\\",
+        "outputPath": "F:\\nadir docs\\AUS Migration\\Interview\\Alinta Energy\\CustomerAPI.TEST\\CustomerAPI.TEST.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nadir_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
