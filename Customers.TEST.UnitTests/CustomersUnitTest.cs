@@ -240,7 +240,7 @@ namespace CustomerUnitTests
         }
 
         /// <summary>
-        /// The DeleteCustomer_DeleteCustomerByIdOne
+        /// The DeleteCustomer_DeleteCustomerByIdTwo
         /// </summary>
         /// <returns>The <see cref="Task"/></returns>
         [Fact]
@@ -290,7 +290,7 @@ namespace CustomerUnitTests
         }
 
         /// <summary>
-        /// The SearchCustomer_SearchByJohn
+        /// The SearchCustomer_SearchByKhan
         /// </summary>
         [Fact]
         public void SearchCustomer_SearchByKhan()
